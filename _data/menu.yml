@@ -17,9 +17,9 @@ entries:
 
   - title: posts by category
     entries:
-    - title: Data Analysis
+    - title: Stock Analysis
       post_list:
-        category: da
+        category: sa
         show_more: true
         show_more_text: See more posts...
-        show_more_url: da-archive.html
+        show_more_url: sa-archive.html
