@@ -23,3 +23,10 @@ entries:
         show_more: true
         show_more_text: See more posts...
         show_more_url: sa-archive.html
+
+    - title: Various Analysis
+      post_list:
+        category: va
+        show_more: true
+        show_more_text: See more posts...
+        show_more_url: va-archive.html
