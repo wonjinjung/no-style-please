@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
-This is an example page!
+# Wonjin, Jung
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+## Now
+    - Enginner support team in Korea Basic Science Institute (South Korea) 
+
+## Past
+    - Center for Materials Analysis, RIAM in Seoul National University
+    - Energy Convergence Research Center in Korea Institute of Science and Technology
+    - Manufacture process in L&F COMP. (South Korea)
