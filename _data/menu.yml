@@ -2,13 +2,6 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: me
-    entries:
-      - title : about
-        url: about
-      - title: email
-        url: mailto:wonjin85@kbsi.re.kr
-
   - title: all posts
     post_list:
       limit: 2
@@ -31,3 +24,10 @@ entries:
         show_more: true
         show_more_text: See more posts...
         show_more_url: va-archive.html
+
+  - title: me
+    entries:
+      - title : about
+        url: about
+      - title: email
+        url: mailto:wingspoet@gmail.com
