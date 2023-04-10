@@ -6,7 +6,7 @@ title: About
 # Wonjin, Jung
 
 ## Now
-    - Enginner support team in Korea Basic Science Institute (South Korea) 
+    - 
 
 ## Past
     - Center for Materials Analysis, RIAM in Seoul National University
