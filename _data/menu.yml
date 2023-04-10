@@ -4,11 +4,10 @@
 entries:
   - title: me
     entries:
-      - title: Engineering Support Team in KBSI (Seoul, South Korea)
-      - title: email
-        url: mailto:wonjin85@kbsi.re.kr
       - title : about
         url: about
+      - title: email
+        url: mailto:wonjin85@kbsi.re.kr
 
   - title: all posts
     post_list:
@@ -17,16 +16,16 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: categories
     entries:
-    - title: Stock Analysis
+    - title: Stock Data Analysis
       post_list:
         category: sa
         show_more: true
         show_more_text: See more posts...
         show_more_url: sa-archive.html
 
-    - title: Various Analysis
+    - title: Various Data Analysis
       post_list:
         category: va
         show_more: true
