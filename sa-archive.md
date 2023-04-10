@@ -1,5 +1,5 @@
 ---
 layout: archive
 which_category: sa
-title: All posts of category 'Stock Data Analysis'
+title: All posts of category 'Stock Data Analysis(sa)'
 ---
