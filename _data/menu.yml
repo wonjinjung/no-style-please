@@ -2,9 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: all posts
+  - title: 전체 글
     post_list:
-      limit: 2
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
@@ -13,6 +13,7 @@ entries:
     entries:
     - title: Stock Data Analysis
       post_list:
+        limit: 5
         category: sa
         show_more: true
         show_more_text: See more posts...
@@ -20,6 +21,7 @@ entries:
 
     - title: Various Data Analysis
       post_list:
+        limit: 5
         category: va
         show_more: true
         show_more_text: See more posts...
