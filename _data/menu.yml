@@ -9,9 +9,9 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: categories
+  - title: 분류하기
     entries:
-    - title: Stock Data Analysis
+    - title: 주식 데이터
       post_list:
         limit: 5
         category: sa
@@ -19,7 +19,7 @@ entries:
         show_more_text: See more posts...
         show_more_url: sa-archive.html
 
-    - title: Various Data Analysis
+    - title: 다양한 데이터
       post_list:
         limit: 5
         category: va
