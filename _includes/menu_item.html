@@ -1,3 +1,4 @@
+<br>
 <ul>
   {%-for item in include.collection-%}
     <li>
@@ -8,9 +9,6 @@
     {%- endif -%}
     </li>
     
-  </br>
-  <br>
-
     {%-if item.post_list-%}
       {%
         include post_list.html
@@ -27,5 +25,4 @@
     {%-endif-%}
   {%-endfor-%}
 </ul>
-</br>
 <br>
