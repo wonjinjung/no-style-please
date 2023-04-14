@@ -1,3 +1,5 @@
+<br>
+
 {%-if include.category-%}
   {%-assign posts = site.categories[include.category]-%}  
 {%-else-%}
@@ -10,7 +12,6 @@
   {%-assign limit_exceeded = false-%}
 {%-endif-%}
 
-<br>
 {%- if posts.size > 0 -%}
   <ul>
     {%- for post in posts limit: include.limit -%}
