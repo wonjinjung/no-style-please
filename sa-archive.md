@@ -1,5 +1,5 @@
 ---
 layout: archive
 which_category: sa
-title: '주식데이터(sa)' 주제 전체 리스트
+title: 주식 데이터 분석 전체
 ---
