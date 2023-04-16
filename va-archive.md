@@ -1,5 +1,5 @@
 ---
 layout: archive
 which_category: va
-title: '다양한 데이터(va)' 주제 전체 리스트
+title: 다양한 데이터 분석(VA) 항목 전체 리스트
 ---
