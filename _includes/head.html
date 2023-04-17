@@ -1,13 +1,6 @@
 <head>
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3VJ8V9Q9H0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-3VJ8V9Q9H0');
-</script>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,6 +18,15 @@
 
   {%-seo title=false-%}
   {%-feed_meta-%}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3VJ8V9Q9H0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3VJ8V9Q9H0');
+</script>
+
   <link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">📺</text></svg>'; />
   <!-- <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" /> -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
