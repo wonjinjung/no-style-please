@@ -3,7 +3,15 @@ layout: default
 ---
 
 {%-include back_link.html-%}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3VJ8V9Q9H0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-3VJ8V9Q9H0');
+</script>
 <u><h1 style="text-align: left;">{{ page.title }}</h1></u>
 
 {{ content }}
