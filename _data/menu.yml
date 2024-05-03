@@ -19,7 +19,7 @@ entries:
         show_more_text: See more posts...
         show_more_url: photo-archive.html
 
-    - title: 다양한 데이터
+    - title: Travel
       post_list:
         limit: 5
         category: travel
