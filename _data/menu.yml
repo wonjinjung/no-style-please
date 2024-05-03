@@ -11,21 +11,21 @@ entries:
 
   - title: 분류하기
     entries:
-    - title: 주식 데이터
+    - title: Photo
       post_list:
         limit: 5
-        category: sa
+        category: photo
         show_more: true
         show_more_text: See more posts...
-        show_more_url: sa-archive.html
+        show_more_url: photo-archive.html
 
     - title: 다양한 데이터
       post_list:
         limit: 5
-        category: va
+        category: travel
         show_more: true
         show_more_text: See more posts...
-        show_more_url: va-archive.html
+        show_more_url: travel-archive.html
 
   - title: me
     entries:
