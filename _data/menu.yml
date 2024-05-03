@@ -11,7 +11,7 @@ entries:
 
   - title: 분류하기
     entries:
-    - title: Photo
+    - title: photo
       post_list:
         limit: 5
         category: photo
@@ -19,7 +19,7 @@ entries:
         show_more_text: See more posts...
         show_more_url: photo-archive.html
 
-    - title: Travel
+    - title: travel
       post_list:
         limit: 5
         category: travel
